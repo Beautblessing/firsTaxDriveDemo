@@ -1,0 +1,46 @@
+[
+
+  {
+    "id": "1",
+    "crcno": "196181",
+    "cname" : "TRIUNE GROUP LIMITED",
+    "caddress": "18. MOSHOOD ABIOLA CRESENT IKEJA LAGOS",
+    "cregdate": "1992-05-04"
+  },
+  {
+    "id": "2",
+    "crcno": "863121",
+    "cname" : "TRIUNE BUILT-TECH SOLUTIONS LIMITED",
+    "caddress": "N0 42 ONITSHA CRESCENT, AREA 11 GARKI ABUJA",
+    "cregdate": "2010-01-08"
+  },
+  {
+    "id": "3",
+    "crcno": "50491",
+    "cname" : "GUARDIANS OF THE NATION INTERNATIONAL (GOTNI) LGTE",
+    "caddress": "9,MBARISTREET,OWERRI,IMO",
+    "cregdate": "2004-02-18"
+  },
+  {
+    "id": "4",
+    "crcno": "497586",
+    "cname" : "QUANTEQ TECHNOLOGY SERVICES LTD",
+    "caddress": "6,AMAZONSTREETMINITERSHILLMAITAMA,ABUJA,FCT  ",
+    "cregdate": "2003-11-21"
+  },
+   {
+   "id": "5",
+    "crcno": "434901",
+    "cname" : "PENTAGON GROUP OF COMPANIES LIMITED",
+    "caddress": "49B,ADEOLAODEKUSTREET,V/ISLAND,LAGOS",
+    "cregdate": "2001-11-14"
+  },
+  {
+    "id": "6",
+    "crcno": "  858020",
+    "cname" : "MESSRS ALTEQ QUANTEQ SPV LIMITED",
+    "caddress": "NO12KOLDASTREETWUSEII,ABUJA,FCT",
+    "cregdate": "2009-12-08"
+  }
+
+]

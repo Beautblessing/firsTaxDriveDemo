@@ -1,0 +1,9 @@
+[
+  {"tax_id":"9","tin_no":"TIN00012348","company_RC_No":"863121","payment_class":"Company Income Tax","trans_date":"2016-01-09","trans_desc":"Consulting","trans_amount":"700979970","trans_ref_id":"ABP/FIRS/2016-01-09/863121","pay_year":"2017","status":"not cleared"},
+  {"tax_id":"7","tin_no":"TIN00012348","company_RC_No":"863121","payment_class":"Company Income Tax","trans_date":"2015-01-05","trans_desc":"Supplies","trans_amount":"750979670","trans_ref_id":"ABP/FIRS/2015-01-05/863121","pay_year":"2016","status":"cleared"},
+  {"tax_id":"6","tin_no":"TIN00012348","company_RC_No":"863121","payment_class":"Company Income Tax","trans_date":"2014-01-06","trans_desc":"Supplies","trans_amount":"509479670","trans_ref_id":"ABP/FIRS/2014-01-06/863121","pay_year":"2015","status":"cleared"},
+  {"tax_id":"5","tin_no":"TIN00012348","company_RC_No":"863121","payment_class":"Company Income Tax","trans_date":"2013-01-07","trans_desc":"Training","trans_amount":"2009479670","trans_ref_id":"ABP/FIRS/2013-01-07/863121","pay_year":"2014","status":"cleared"},
+  {"tax_id":"4","tin_no":"TIN00012348","company_RC_No":"863121","payment_class":"Company Income Tax","trans_date":"2012-01-09","trans_desc":"Training","trans_amount":"1809479670","trans_ref_id":"ABP/FIRS/2012-01-09/863121","pay_year":"2013","status":"cleared"},
+  {"tax_id":"3","tin_no":"TIN00012348","company_RC_No":"863121","payment_class":"Company Income Tax","trans_date":"2011-01-10","trans_desc":"Consulting","trans_amount":"509479670","trans_ref_id":"ABP/FIRS/2011-01-10/863121","pay_year":"2012","status":"cleared"},
+  {"tax_id":"2","tin_no":"TIN00012348","company_RC_No":"863121","payment_class":"Company Income Tax","trans_date":"2010-01-08","trans_desc":"Supplies","trans_amount":"49479670","trans_ref_id":"ABP/FIRS/02-02-2017/863121","pay_year":"2011","status":"cleared"}
+]
