@@ -58,6 +58,7 @@
 								//$('#table1 th').css('background-Color','#c1272d');
 								$('#busy').show();
 								$("#viewTaxRecord").hide();
+								$("#viewTaxRecordOwe").show();
 
 							});
 
